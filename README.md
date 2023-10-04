@@ -1,11 +1,12 @@
 # SLAM  (Simultaneous Localization and Mapping)
 <h4><i>A method used for autonomous vehicles that lets you build a map and localize your vehicle in that map at the same time. SLAM algorithms allow the vehicle to map out unknown environments. Engineers use the map information to carry out tasks such as path planning and obstacle avoidance.</i></h4><br>
-<img src="https://drive.google.com/file/d/1niVIUHadZPIZX_ZMuEJjxx4dh6VF7P-Y/view?usp=drivesdk" width="400" height="200">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/sVjxdq6/slam-vacuum.jpg" alt="slam-vacuum" border="0" width="400" height="200"></a>
+<br>
 
 
 :video_camera: [SLAM Course (2013) - Youtube](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)<br>
 :video_camera: [SLAM Mathematics Playlist + (Python) - YouTube](https://www.youtube.com/playlist?list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm) + I enjoyed it and took some [Notes](https://github.com/Moataz-Elmesmary/SLAM-Robotics/blob/main/SLAM%20basic%20Notes%20by%20me.pdf) + [code](https://github.com/Moataz-Elmesmary/SLAM-Robotics/tree/main/Unit_A)<br>
-<img src="https://drive.google.com/file/d/1EQlGmAxRTLobwFu8wzi9MgVs-A1plgaf/view?usp=drivesdk" width="250" height="225">
+<a href="https://ibb.co/pKWkRb6"><img src="https://i.ibb.co/kD3P95V/photo-2023-10-04-12-46-55.jpg" alt="photo-2023-10-04-12-46-55" border="0" width="250" height="250"></a>
 *That`s how i study this sh#t :D* .. Units: :arrow_lower_left:<br> - A: Motion model, landmark detection in LiDAR data.<br> - B: Positioning by estimation of a similarity transform, iterative closest point (ICP) algorithm.<br> - C: Bayes filter, Kalman filter in 1D.<br>  - D: Covariances and error ellipses, multidimensional Kalman filter, extended Kalman filter.<br> - E: Parametric and nonparametric filters and the particle filter.<br> - F: SLAM using an extended Kalman filter.<br> - G: FastSLAM: Rao-Blackwellized SLAM which combines particle and Kalman filters.<br> - PP01: Path planning on grids using Dijkstra and A* algorithms, kinematic state space planning.
 
 :closed_book: [Probabilistic Robotics](http://www.probabilistic-robotics.org/)<br>
